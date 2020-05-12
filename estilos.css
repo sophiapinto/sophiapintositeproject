@@ -1,0 +1,38 @@
+body {
+    background: #000000;
+    font-family: Verdana;
+  }
+  
+  .menu {
+    background-color: #E6E6FA;
+    
+  }
+  
+  a {
+    color: #000000;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  .site-subtitle,
+  .site-title {
+    color: #FFE4E1;
+    text-align: center;
+  }
+  
+  .site-subtitle {
+    
+    font-style: italic;
+  }
